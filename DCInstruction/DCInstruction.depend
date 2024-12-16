@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1734155127 source:g:\cprogl.c\dcinstruction\main.c
+	<stdio.h>
+	<stdlib.h>
+
