@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734784144 source:g:\cprogl.c\logical_operator\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734767018 source:g:\cprogl.c\if_else\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

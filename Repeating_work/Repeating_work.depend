@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1734856039 source:g:\cprogl.c\repeating_work\main.c
+	<stdio.h>
+	<stdlib.h>
+

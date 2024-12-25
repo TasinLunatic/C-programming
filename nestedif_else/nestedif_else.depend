@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1734768083 source:g:\cprogl.c\nestedif_else\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
