@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1735375359 source:g:\cprogl.c\calculating__gpa\main.c
+	<stdio.h>
+	<stdbool.h>
+

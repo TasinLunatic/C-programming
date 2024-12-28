@@ -3,37 +3,52 @@
 
 int main()
 {
-    /* int n=10;
+    /* int number;
+    scanf("%d",&number);
 
-     for(int i=0;i<10;i++){
-         if(i%2==0){
-            printf("%d is even\n",i);
-        }
-        else{
-            printf("%d is odd\n",i);
-        }
-     }*/
 
-     int height,width;
-     scanf("%d %d",&height,&width);
+   if(number %2==0){
+        printf("number is even.");
+    }
+    else{
+        printf("number is odd.");
+    }
+    if(number>0){
+        printf("1");
+    }
+    else if(number ==0){
+        printf("0");
+    }
+    else{
+        printf("-1");
+    }
+    int a=20,b=10;
 
-     for (int i=0;i<=width;i++){
-        printf("*");
+    int max_ab=a>b? a:b;
+
+    /* if ( a>b){
+       max_ab =a;
      }
-     printf("\n");
-
-     for(int i=0;i<height-2;i++){
-        printf("*");
-        for(int j=0;j<width-2;j++ ){
-            printf(" ");
-        }
-        printf("*");
-        printf("\n");
+     else{
+        max_ab =b;
      }
-     for(int i=0;i<=width;i++){
-        printf("*");
-     }
+     printf("%d",max_ab);*/
 
+     int A,B,C;
+     scanf("%d %d %d",&A,&B,&C);
+
+     int water_left=A-B;
+
+     if(water_left>=C){
+        printf("0");
+     }
+     else{
+         C-=water_left;
+         printf("%d",C);
+     }
 
     return 0;
 }
+
+
+///find min and maximum
