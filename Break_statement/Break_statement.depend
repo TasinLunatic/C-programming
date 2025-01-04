@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1735820683 source:g:\cprogl.c\break_statement\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
