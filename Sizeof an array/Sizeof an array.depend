@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1737710927 source:g:\cprogl.c\sizeof an array\main.c
+	<stdio.h>
+	<stdlib.h>
+
